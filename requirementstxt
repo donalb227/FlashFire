@@ -1,0 +1,8 @@
+opencv-python
+torch
+torchvision
+gpiozero
+pygame
+matplotlib
+pandas
+numpy
