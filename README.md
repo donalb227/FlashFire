@@ -109,5 +109,8 @@ Deploy the trained model for real-time prediction and vehicle control.
 3. **Observe**: The vehicle will use the camera feed to control steering and throttle autonomously.
 
 
-
+### Credits
+Harrison Bounds - hbounds1@cub.uca.edu
+Brandon Donaldson - bdonaldson1@cub.uca.edu
+Lawan Hamidou - ldjibrilhamidou@cub.uca.edu
 
