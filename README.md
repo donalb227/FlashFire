@@ -111,6 +111,8 @@ Deploy the trained model for real-time prediction and vehicle control.
 
 ### Credits
 Harrison Bounds - hbounds1@cub.uca.edu
+
 Brandon Donaldson - bdonaldson1@cub.uca.edu
+
 Lawan Hamidou - ldjibrilhamidou@cub.uca.edu
 
